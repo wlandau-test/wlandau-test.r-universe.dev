@@ -1,0 +1,10 @@
+[
+  {
+    "package": "askpass",
+    "url": "https://github.com/r-lib/askpass"
+  },
+  {
+    "package": "test2",
+    "url": "https://github.com/wlandau-test/test2"
+  }
+]
