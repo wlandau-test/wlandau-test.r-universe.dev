@@ -1,12 +1,7 @@
 [
   {
-    "package": "askpass",
-    "url": "https://github.com/r-lib/askpass",
-    "branch": "*release"
-  },
-  {
-    "package": "test2",
-    "url": "https://github.com/wlandau-test/test2",
+    "package": "test",
+    "url": "https://gitlab.com/wlandau/test",
     "branch": "*release"
   }
 ]
